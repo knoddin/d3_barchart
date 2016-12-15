@@ -1,0 +1,9 @@
+/* CSS goes here */
+
+.Bar {
+    display: inline-block;
+    width: 50px;
+    height: 100px;
+    margin: 5px;
+    background: #00f;
+}
